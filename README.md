@@ -1,3 +1,11 @@
+- [skill badges](https://github.com/LelouchFR/skill-icons/blob/main/README.md)
+
+- [capsule-render](https://github.com/kyechan99/capsule-render)
+
+- [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats
+)
+
+
 # **The Art of GitHub: A Comprehensive Treatise on Repository Engineering and Profile Architecture**
 
 ## **1\. Introduction**
