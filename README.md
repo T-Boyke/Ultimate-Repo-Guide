@@ -4,6 +4,9 @@
 
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats
 )
+- [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+- [metrics](https://github.com/lowlighter/metrics)
+- 
 
 
 # **The Art of GitHub: A Comprehensive Treatise on Repository Engineering and Profile Architecture**
